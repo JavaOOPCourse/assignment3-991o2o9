@@ -36,6 +36,6 @@ public class CloudStorageService extends Service
 
     @Override
     public void generateBill() {
-        System.out.println("Cloud Storage Bill is being generated generated for " + getServiceName());
+        System.out.println("Cloud Storage Bill is being generated for " + getServiceName());
     }
 }
