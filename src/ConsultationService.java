@@ -25,6 +25,6 @@ public class ConsultationService extends Service
 
         // TODO:
         // print billing message
-        System.out.println("Consultation Bill is being generated generated for " + getServiceName());
+        System.out.println("Consultation Bill is being generated for " + getServiceName());
     }
 }
